@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ldl/OS_Study/1/2.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/wait.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/main3.dir/5/3.c.o  -o main3 
